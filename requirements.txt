@@ -9,7 +9,7 @@ transformers
 tqdm
 librosa
 omegaconf
-gradio==3.36.1
+gradio==4.11.0
 ruamel.yaml
 resampy
 numpy==1.24
